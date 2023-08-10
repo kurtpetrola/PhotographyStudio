@@ -13,8 +13,8 @@ const Home = () => {
     return(
         <section id='home'>
             <header>
-                <h1>Freelance Photographer based in San Francisco, California.</h1>
-                <h3>Browse my portfolio collections.</h3>
+                <h1>Photography Studio.</h1>
+                <h3>Browse our portfolio collections.</h3>
             </header>
             <div className='flex-grid-container'>
                 <div className='flex-grid-box'>

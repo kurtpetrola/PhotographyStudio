@@ -12,7 +12,7 @@ const Wedding = () => {
         <section>
             <header>
                 <h1>Wedding</h1>
-                <h3>A collection of Phi and Alice wedding photographs.</h3>
+                <h3>A collection of wedding photographs.</h3>
             </header>
             <div className='wedding-flex-container'>
                 <figure className='wedding-flex-box'>

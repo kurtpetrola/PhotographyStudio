@@ -27,14 +27,10 @@ const Navbar = (props) => {
                 {openMenu && <Navlink onClick={openMenuHandler}/>}  
                 <ul>
                     <li>
-                        <a href="mailto:dinvho@gmail.com">
                             <i className="far fa-envelope"></i>
-                        </a>
                     </li>
                     <li>
-                        <a href="https://www.instagram.com/diiinv.ho/" target="_blank">
                             <i className="fab fa-instagram"></i>
-                        </a>
                     </li>
                     <li>
                         <i className="fas fa-bars open-menu" onClick={openMenuHandler}></i>

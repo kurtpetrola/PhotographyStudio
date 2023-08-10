@@ -12,7 +12,7 @@ const Landscape = () => {
         <section id='landscape'>
             <header>
                 <h1>Landscape</h1>
-                <h3>A collection of california landscape photographs.</h3>
+                <h3>A collection of landscape photographs.</h3>
             </header>
             <div className="landscape-flex-container">
                 <div className="landscape-flex-box-one">

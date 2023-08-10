@@ -19,7 +19,7 @@ const Car = () => {
         <section id='car'>
             <header>
                 <h1>Car</h1>
-                <h3>A collection of Dodge Charger SRT photographs.</h3>
+                <h3>A collection of Car photographs.</h3>
             </header>
             <div className="car-flex-container">
                 <figure className="car-flex-horizontal-box">

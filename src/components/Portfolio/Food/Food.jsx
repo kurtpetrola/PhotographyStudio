@@ -21,7 +21,7 @@ const Food = () => {
         <section id='food'>
             <header>
                 <h1>Food</h1>
-                <h3>A collection of Bay Area Food Photographs.</h3>
+                <h3>A collection of Food Photographs.</h3>
             </header>
             <div className="food-flex-container">
                 <figure className="flex-vertical-box">

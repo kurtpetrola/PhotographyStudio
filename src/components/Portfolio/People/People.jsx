@@ -12,7 +12,7 @@ const People = () => {
         <section id='people'>
             <header>
                 <h1>People</h1>
-                <h3>A collection of bay area resisdents photographs.</h3>
+                <h3>A collection of bay area residents photographs.</h3>
             </header>
             <div className="people-flex-container">
                 <figure className="people-flex-vertical-box">

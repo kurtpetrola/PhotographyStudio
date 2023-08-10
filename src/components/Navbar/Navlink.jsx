@@ -15,9 +15,6 @@ const Navlink = (props) => {
                 <li>
                     <a href="/about">About</a>
                 </li>
-                <li>
-                    <a href="/contact">Contact</a>
-                </li>
                 <li className='dropdown'>
                     <a>Portfolio</a>
                     <ul className='dropdown-menu'>

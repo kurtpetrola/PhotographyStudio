@@ -12,7 +12,7 @@ const City = () => {
         <section id='city'>
             <header>
                 <h1>City</h1>
-                <h3>A collection of San Francisco photographs.</h3>
+                <h3>A collection of City photographs.</h3>
             </header>
             <div className='city-flex-container'>
                 <figure className='city-flex-box-three'>
