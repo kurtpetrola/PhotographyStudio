@@ -25,77 +25,77 @@ const Food = () => {
             </header>
             <div className="food-flex-container">
                 <figure className="flex-vertical-box">
-                    <a href={food9} data-lightbox='food-pic' data-title='Noodle'>
+                    <a href={food9} data-lightbox='food-pic' data-title='Food1'>
                         <img src={food9} className='food-vertical' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-vertical-box">
-                    <a href={food10} data-lightbox='food-pic' data-title='Sushi'>
+                    <a href={food10} data-lightbox='food-pic' data-title='Food2'>
                         <img src={food10} className='food-vertical' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-horizontal-box">
-                    <a href={drink1} data-lightbox='food-pic' data-title='Bamboo'>
+                    <a href={drink1} data-lightbox='food-pic' data-title='Food3'>
                         <img src={drink1} className='food-horizontal' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-horizontal-box">
-                    <a href={drink2} data-lightbox='food-pic' data-title='Black Sugar'>
+                    <a href={drink2} data-lightbox='food-pic' data-title='Food4'>
                         <img src={drink2} className='food-horizontal' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-vertical-box">
-                    <a href={food5} data-lightbox='food-pic' data-title='Banh Mi'>
+                    <a href={food5} data-lightbox='food-pic' data-title='Food5'>
                         <img src={food5} className='food-vertical' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-vertical-box">
-                    <a href={food8} data-lightbox='food-pic' data-title='Steak'>
+                    <a href={food8} data-lightbox='food-pic' data-title='Food6'>
                         <img src={food8} className='food-vertical' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-vertical-box">
-                    <a href={food11} data-lightbox='food-pic' data-title='Rice Bowl'>
+                    <a href={food11} data-lightbox='food-pic' data-title='Food7'>
                         <img src={food11} className='food-vertical' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-vertical-box">
-                    <a href={drink3} data-lightbox='food-pic' data-title='Taste Tea'>
+                    <a href={drink3} data-lightbox='food-pic' data-title='Food8'>
                         <img src={drink3} className='food-vertical' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-horizontal-box">
-                    <a href={food1} data-lightbox='food-pic' data-title='Ramen'>
+                    <a href={food1} data-lightbox='food-pic' data-title='Food9'>
                         <img src={food1} className='food-horizontal' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-square-box">
-                    <a href={food2} data-lightbox='food-pic' data-title='Food Spread'>
+                    <a href={food2} data-lightbox='food-pic' data-title='Food10'>
                         <img src={food2} className='food-square' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-square-box">
-                    <a href={food3} data-lightbox='food-pic' data-title='Duck Noodle'>
+                    <a href={food3} data-lightbox='food-pic' data-title='Food11'>
                         <img src={food3} className='food-square' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-square-box">
-                    <a href={food4} data-lightbox='food-pic' data-title='Vermicelli'>
+                    <a href={food4} data-lightbox='food-pic' data-title='Food12'>
                         <img src={food4} className='food-square' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-square-box">
-                    <a href={drink4} data-lightbox='food-pic' data-title='Boba'>
+                    <a href={drink4} data-lightbox='food-pic' data-title='Food13'>
                         <img src={drink4} className='food-square' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-square-box">
-                    <a href={food6} data-lightbox='food-pic' data-title='Fried Chicken'>
+                    <a href={food6} data-lightbox='food-pic' data-title='Food14'>
                         <img src={food6} className='food-square' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="flex-square-box">
-                    <a href={food7} data-lightbox='food-pic' data-title='Chicken Noodle'>
+                    <a href={food7} data-lightbox='food-pic' data-title='Food15'>
                         <img src={food7} className='food-square' loading='lazy'/>                        
                     </a>
                 </figure>

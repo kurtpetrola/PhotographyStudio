@@ -16,32 +16,32 @@ const Animal = () => {
             </header>
             <div className="animal-flex-container">
                 <figure className="animal-flex-vertical-box">
-                    <a href={animal1}data-lightbox='animal-pic' data-title='Cat'>
+                    <a href={animal1}data-lightbox='animal-pic' data-title='Animal1'>
                         <img src={animal1} className='animal-box' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="animal-flex-vertical-box">
-                    <a href={animal2} data-lightbox='animal-pic' data-title='Horse'>
+                    <a href={animal2} data-lightbox='animal-pic' data-title='Animal2'>
                         <img src={animal2} className='animal-box' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="animal-flex-vertical-box">
-                    <a href={animal3} data-lightbox='animal-pic' data-title='Reindeer'>
+                    <a href={animal3} data-lightbox='animal-pic' data-title='Animal3'>
                         <img src={animal3} className='animal-box' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="animal-flex-vertical-box">
-                    <a href={animal4} data-lightbox='animal-pic' data-title='Swan'>
+                    <a href={animal4} data-lightbox='animal-pic' data-title='Animal4'>
                         <img src={animal4} className='animal-box' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="animal-flex-vertical-box">
-                    <a href={animal5} data-lightbox='animal-pic' data-title='Giraffe'>
+                    <a href={animal5} data-lightbox='animal-pic' data-title='Animal5'>
                         <img src={animal5} className='animal-box' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="animal-flex-vertical-box">
-                    <a href={animal7} data-lightbox='animal-pic' data-title='Goat'>
+                    <a href={animal7} data-lightbox='animal-pic' data-title='Animal6'>
                         <img src={animal7} className='animal-box' loading='lazy'/>                        
                     </a>
                 </figure>

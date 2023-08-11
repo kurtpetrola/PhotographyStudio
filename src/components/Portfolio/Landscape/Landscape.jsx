@@ -22,29 +22,29 @@ const Landscape = () => {
                         </a>
                     </figure>
                     <figure className="landscape-flex-box-one-bottom">
-                        <a href={landscape4} data-lightbox='landscape-pic' data-title='Park'>
+                        <a href={landscape4} data-lightbox='landscape-pic' data-title='Landscape1'>
                             <img src={landscape4} className='landscape-box' loading='lazy'/>                        
                         </a>
                     </figure>
                 </div>
                 <figure className="landscape-flex-box-two">
-                    <a href={landscape2} data-lightbox='landscape-pic' data-title='Lake'>
+                    <a href={landscape2} data-lightbox='landscape-pic' data-title='Landscape2'>
                         <img src={landscape2} className='landscape-box' loading='lazy'/>                        
                     </a>
                 </figure>
                 <figure className="landscape-flex-box-three">
-                    <a href={landscape3} data-lightbox='landscape-pic' data-title='Land'>
+                    <a href={landscape3} data-lightbox='landscape-pic' data-title='Landscape3'>
                         <img src={landscape3} className='landscape-box' loading='lazy'/>                        
                     </a>
                 </figure>
                 <div className="landscape-flex-box-four">
                     <figure className="landscape-flex-box-four-top">
-                        <a href={landscape1} data-lightbox='landscape-pic' data-title='Sunset'>
+                        <a href={landscape1} data-lightbox='landscape-pic' data-title='Landscape4'>
                             <img src={landscape1} className='landscape-box' loading='lazy'/>                        
                         </a>
                     </figure>
                     <figure className="landscape-flex-box-four-bottom">
-                        <a href={landscape5} data-lightbox='landscape-pic' data-title='Beach'>
+                        <a href={landscape5} data-lightbox='landscape-pic' data-title='Landscape5'>
                             <img src={landscape5} className='landscape-box' loading='lazy'/>                        
                         </a>
                     </figure>

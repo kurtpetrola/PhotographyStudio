@@ -1,5 +1,5 @@
 import './About.scss';
-import dinv from '../../assets/profile/dinv.avif';
+import dinv from '../../assets/profile/profile.png';
 
 const About = () => {
 
@@ -17,7 +17,7 @@ const About = () => {
                     </div>
                 </div>
                 <div className='about-profile'>
-                    <a href={dinv} data-lightbox='models' data-title='Din Ho'>
+                    <a href={dinv} data-lightbox='models' data-title='Focus Frame'>
                         <img src={dinv} className='profile-pic' loading='lazy'/>                        
                     </a>
                 </div>

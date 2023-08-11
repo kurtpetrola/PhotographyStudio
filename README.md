@@ -2,7 +2,7 @@
 
 `HTML` `CSS` `JavaScript` `Vite` `React.js` `Sass`
 
-# Install all dependencies to use this website as a template:
+# To run this website:
 
 `npm install`
 

@@ -20,7 +20,7 @@ const Navbar = (props) => {
     return(
         <nav className='flex-nav-bar' id='nav'>
             <header>
-                <a href="/home" className='logo'>Din Ho</a>
+                <a href="/home" className='logo'>Focus Frame</a>
                 <p className='sublogo'>Photography</p>
             </header>
             <nav>
