@@ -4,8 +4,8 @@
 
 # To run this website:
 
-`npm install`
+`cd to directory`-make sure you're in the working directory
 
-Afterward:
+`npm install`-to install dependencies
 
-`npm run dev`
+`npm run dev`-to run it to locally
